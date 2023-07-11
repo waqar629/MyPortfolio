@@ -5,7 +5,7 @@ import './App.scss';
 
 const App = () => {
 
-  // Waqar zinda baad
+  
   return (
     <div className="app">
         <Navbar />
