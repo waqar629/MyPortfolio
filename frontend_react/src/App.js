@@ -5,7 +5,7 @@ import './App.scss';
 
 const App = () => {
 
-  // Abdullah zinda baad
+  // Waqar zinda baad
   return (
     <div className="app">
         <Navbar />
